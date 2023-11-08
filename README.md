@@ -9,12 +9,17 @@ Users can easily search and filter their favorite recipes by different categorie
 
 ## Deployment link
 
-https://gourmetgossip-c203cdaf4c83.herokuapp.com/ 
+https://gourmetgossip-c203cdaf4c83.herokuapp.com/
+
+Login:
+Email: nadja@email.com
+Password: pass
 
 
 ## Timeframe & Working Team
 
 We were given 8 days to create our first full stack application as a group of three members. Alex, James and I collaborated to build an application based on a React frontend, Node backend, a fully functional Express API with GET, POST, PUT and DELETE routes and also custom authentication to enable login and register.
+
 Collaborator: parkeralexjm, jchesher92
 
 
@@ -69,9 +74,11 @@ We started our project by understanding the requirements and researching for a s
 
 Day 1 was our planning day. We finalized our wireframe and talked through possible use cases. On Trello we defined detailed tasks to identify which features we have to work on.
 
+Regarding our individual strengths we decided for James to focus on the backend, me to focus on the frontend and Alex would float between picking up features as needed. Thanks to our detailed task planning we were able to work quite independently.
+
+
 ![Alt text](README-files/gourmet-gossip-trello.png)
 
-Regarding our individual strengths we decided for James to focus on the backend, me to focus on the frontend and Alex would float between picking up features as needed. Thanks to our detailed task planning we were able to work quite independently.
 
 ![Alt text](README-files/gourmet-gossip-screenlayout.png)
 
@@ -90,6 +97,7 @@ While James and Alex were working on the backend creating models, routes and con
 ### Day 3
 
 On day 3 I focused on implementing the search bar on the Home and All Recipes page. It allows users to search recipes by name and description and additionally filter them by category, diet and difficulty. The filtered recipes are displayed instantly as the user makes changes to find suitable recipes faster.
+
 The others were working on the login and register form considering authentication routes and validating passwords as well as storing the password as a hash using bcrypt.
 
 
