@@ -9,7 +9,7 @@ Users can easily search and filter their favorite recipes by different categorie
 
 ## Deployment link
 
-https://gourmetgossip-c203cdaf4c83.herokuapp.com/
+N/A
 
 Login:<br />
 Email: nadja@email.com<br />
